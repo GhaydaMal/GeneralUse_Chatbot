@@ -1,6 +1,6 @@
 # General Use Chatbot
 
-This project is a simple chatbot application that integrates a language model using Flask and LangChain. The chatbot is designed to interact with users, respond to their queries, and provide context-aware conversational responses. The front-end interface is developed using HTML, CSS, and JavaScript.
+This project is a simple chatbot application that integrates a language model using Flask and OllamaLLM. The chatbot is designed to interact with users, respond to their queries, and provide context-aware conversational responses. The front-end interface is developed using HTML, CSS, and JavaScript.
 
 ## Features
 
