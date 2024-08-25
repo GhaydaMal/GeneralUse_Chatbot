@@ -14,12 +14,12 @@ This project is a simple chatbot application that integrates a language model us
 - **Frontend**: HTML, CSS, JavaScript
 - **Machine Learning**: LangChain's language model (`llama3`)
 
-
+ 
 ## Project Structure
-- 'main.py': Flask application backend with endpoints for serving the chat interface and handling user queries.
-- 'templates/index.html': HTML template for the chat interface.
-- 'static/styles.css': CSS file for styling the chat interface.
-- 'static/scripts.js': JavaScript file managing chat interactions and UI updates.
+- `main.py`: Flask application backend with endpoints for serving the chat interface and handling user queries.
+- `templates/index.html`: HTML template for the chat interface.
+- `static/styles.css`: CSS file for styling the chat interface.
+- `static/scripts.js`: JavaScript file managing chat interactions and UI updates.
 
 ## Video Demo
 
