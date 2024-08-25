@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chatbox">
+            <div class="chatbox__header">
+                <h2 class="chatbox__title">Personal Chatbot</h2>
+            </div>
+            <div class="chatbox__body">
+                <!-- Messages will be appended here -->
+            </div>
+            <div class="chatbox__footer">
+                <input type="text" placeholder="Type your message..." />
+                <button class="send__button">➤</button>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+</body>
+</html>
