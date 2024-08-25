@@ -23,6 +23,6 @@ static/scripts.js: JavaScript file managing chat interactions and UI updates.
 
 ## Video Demo
 
-Watch a demonstration of the Personal Chatbot in action:
+Watch a demonstration of the Chatbot in action:
 
 [Watch the video](https://github.com/ghaydamal/GeneralUse_Chatbot/raw/main/IMG_5083.MP4)
